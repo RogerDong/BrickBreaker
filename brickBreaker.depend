@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1400950005 source:d:\c files\brick3\c\brickbreaker  c\brickbreaker\gameflow.c
+	"cFile.h"
+
+1398180466 d:\c files\brick3\c\brickbreaker  c\brickbreaker\cfile.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"variable.h"
+	"initialize.h"
+	"gameFlow.h"
+	"process.h"
+
+1400946178 d:\c files\brick3\c\brickbreaker  c\brickbreaker\variable.h
+
+1400946624 d:\c files\brick3\c\brickbreaker  c\brickbreaker\initialize.h
+
+1397402308 d:\c files\brick3\c\brickbreaker  c\brickbreaker\gameflow.h
+
+1400923414 d:\c files\brick3\c\brickbreaker  c\brickbreaker\process.h
+
+1400951507 source:d:\c files\brick3\c\brickbreaker  c\brickbreaker\initialize.c
+	"cFile.h"
+
+1397402362 source:d:\c files\brick3\c\brickbreaker  c\brickbreaker\main.c
+	"cFile.h"
+
+1400946624 source:d:\c files\brick3\c\brickbreaker  c\brickbreaker\process.c
+	"cFile.h"
+
+1400946178 source:d:\c files\brick3\c\brickbreaker  c\brickbreaker\variable.c
+	"cFile.h"
+
+1402835784 source:d:\c files\brick3\now work\brickbreaker\gameflow.c
+	"cFile.h"
+
+1402632659 d:\c files\brick3\now work\brickbreaker\cfile.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"variable.h"
+	"initialize.h"
+	"gameFlow.h"
+	"process.h"
+	"bonus.h"
+
+1402658271 d:\c files\brick3\now work\brickbreaker\variable.h
+
+1402655921 d:\c files\brick3\now work\brickbreaker\initialize.h
+
+1402716904 d:\c files\brick3\now work\brickbreaker\gameflow.h
+
+1402632608 d:\c files\brick3\now work\brickbreaker\process.h
+
+1402853075 source:d:\c files\brick3\now work\brickbreaker\initialize.c
+	"cFile.h"
+
+1402671812 source:d:\c files\brick3\now work\brickbreaker\main.c
+	"cFile.h"
+
+1402885133 source:d:\c files\brick3\now work\brickbreaker\process.c
+	"cFile.h"
+
+1402679242 source:d:\c files\brick3\now work\brickbreaker\variable.c
+	"cFile.h"
+
+1402636027 d:\c files\brick3\now work\brickbreaker\bonus.h
+
+1402852783 source:d:\c files\brick3\now work\brickbreaker\bonus.c
+	"cFile.h"
+
